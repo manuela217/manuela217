@@ -26,7 +26,7 @@ Me apasiona crear **interfaces modernas, usables y atractivas**, aplicando buena
 
 ---
 
-## 🌱 Actualmente...  
+## 🌱 Actualmente  
 - Mejorando mis habilidades en **React y Angular**.  
 - Desarrollando proyectos personales para reforzar mi aprendizaje.  
 - Abierta a colaborar en proyectos de frontend donde pueda aportar y crecer.  
