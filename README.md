@@ -1,7 +1,7 @@
 ## 👩‍💻 ¡Hola! Soy Manuela Mendoza Barba
 
-Desarrolladora Web Junior Full Stack con formación en Desarrollo de Aplicaciones Web.
-Me apasiona el desarrollo frontend, creando interfaces modernas, usables y accesibles, y también he trabajado en entornos backend con Symfony, Spring Boot, Java y PHP, consolidando un perfil versátil y en constante evolución.
+**Desarrolladora Web Junior Full Stack** con formación en CFGS Desarrollo de Aplicaciones Web.
+Me apasiona el desarrollo frontend, creando interfaces modernas, usables y accesibles, además tengo experiencia práctica en proyectos con Angular y React. También he trabajado en entornos backend con Symfony, Spring Boot, Java y PHP, consolidando un perfil versátil y en constante evolución.
 
 ---
 
