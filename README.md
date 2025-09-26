@@ -1,7 +1,7 @@
-## 👩‍💻 ¡Hola! Soy Manuela Mendoza Barba  
+## 👩‍💻 ¡Hola! Soy Manuela Mendoza Barba
 
-Desarrolladora web junior enfocada en **frontend** y con formación en **Desarrollo de Aplicaciones Web**.  
-Me apasiona crear **interfaces modernas, usables y atractivas**, aplicando buenas prácticas de diseño y usabilidad.  
+Desarrolladora Web Junior Full Stack con formación en Desarrollo de Aplicaciones Web.
+Me apasiona el desarrollo frontend, creando interfaces modernas, usables y accesibles, y también he trabajado en entornos backend con Symfony, Spring Boot, Java y PHP, consolidando un perfil versátil y en constante evolución.
 
 ---
 
@@ -17,7 +17,7 @@ Me apasiona crear **interfaces modernas, usables y atractivas**, aplicando buena
 
 ## 📂 Proyectos destacados  
 - **[Aplicación en React (en desarrollo)]**  
-  Proyecto personal con **React y Node.js** para consolidar conocimientos.  
+  Proyecto personal con **React y Node.js montando en Vite** para consolidar conocimientos.  
   Incluye componentes reutilizables, hooks y diseño responsive.  
 
 - **[Aplicación en Angular y Symfony]**  
@@ -27,9 +27,9 @@ Me apasiona crear **interfaces modernas, usables y atractivas**, aplicando buena
 ---
 
 ## 🌱 Actualmente  
-- Mejorando mis habilidades en **React y Angular**.  
-- Desarrollando proyectos personales para reforzar mi aprendizaje.  
-- Abierta a colaborar en proyectos de frontend donde pueda aportar y crecer.  
+- Reforzando mis conocimientos en React, Angular y Java.
+- Desarrollando proyectos personales para consolidar mi perfil full stack.
+- Abierta a colaborar en proyectos donde pueda aportar y seguir creciendo como desarrolladora web. 
 
 ---
 
