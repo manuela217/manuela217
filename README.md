@@ -1,42 +1,57 @@
-## 👩‍💻 ¡Hola! Soy Manuela Mendoza Barba
+## ¡Hola! Soy Manuela Mendoza Barba
+### Desarrolladora Web Junior Full Stack
 
-**Desarrolladora Web Junior Full Stack** con formación en CFGS Desarrollo de Aplicaciones Web.
-Me apasiona el desarrollo frontend, creando interfaces modernas, usables y accesibles, además tengo experiencia práctica en proyectos con **Angular y React**. También he trabajado en entornos backend con **Symfony, Spring Boot, Java y PHP**, consolidando un perfil versátil y en constante evolución.
+Con formación en CFGS Desarrollo de Aplicaciones Web. Apasionada del desarrollo frontend y backend, con experiencia práctica construyendo aplicaciones con **Angular**, **React (Vite)**, **Symfony**, **Spring Boot** y **PostgreSQL**, trabajando en entornos Docker y aplicando buenas prácticas de diseño, arquitectura y control de versiones.
+
+Disfruto creando interfaces modernas, usables y accesibles, sin dejar de lado la lógica backend ni la integración con bases de datos.  
+Actualmente sigo ampliando mi perfil full stack con proyectos propios y formación continua.
 
 ---
 
 ## 🚀 Tecnologías y herramientas  
-- **Frontend:** HTML5 | CSS3 | JavaScript | Angular | React | Tailwind CSS | TypeScript  
+- **Frontend:** HTML5 | CSS3 | JavaScript | TypeScript | Angular | React | Tailwind CSS  
 - **Backend:** PHP | Symfony | Java  | Spring Boot
-- **Bases de datos:** MySQL | PostgreSQL  
-- **Entornos / IDE:** Node.js | Docker | VS Code | Eclipse  
+- **Bases de datos:** MySQL | PostgreSQL | DBeaver  
+- **Entornos / IDE:** Docker | Docker Compose | Vite | Node.js | VS Code | Eclipse
+- **APIs / Testing:** Postman
 - **Control de versiones:** Git | GitHub  
 - **Diseño:** Figma | Adobe Photoshop | Adobe Illustrator  
 
 ---
 
 ## 📂 Proyectos destacados  
-- **[Aplicación en React (en desarrollo)]**  
-  Proyecto personal con **React y Node.js montando en Vite** para consolidar conocimientos.  
-  Incluye componentes reutilizables, hooks y diseño responsive.  
+### 🔹 **Portfolio web – HTML, CSS, JavaScript**  
+Portfolio responsive desarrollado desde cero sin frameworks.  
+✔ Maquetación · ✔ Diseño responsive · ✔ Accesibilidad  
+🔗 Demo: https://portfolio-manuela-mendoza.netlify.app
 
-- **[Aplicación en Angular y Symfony]**  
-  Proyecto personal con **Angular, Symfony y PostgreSQL** para consolidar conocimientos aquiridos durante mis prácticas FCT.
-  Incluye componentes reutilizables, login y diseño responsive.  
+
+
+### 🔹 **Portfolio web – React + Vite + Tailwind CSS**  
+Versión moderna del portfolio utilizando React 19, Vite y Tailwind.  
+✔ Hooks · ✔ Componentes reutilizables · ✔ UI moderna y responsive  
+🔗 Demo: https://portfolio-manuela-mendoza.barba.netlify.app
+
+
+
+### 🔹 **Gestor de tareas (En desarrollo) – Angular + Symfony + PostgreSQL + Docker**  
+Aplicación full stack para gestión de tareas.  
+✔ Validaciones avanzadas con Reactive Forms  
+✔ Buscador dinámico  
+✔ Sistema global de notificaciones (toasts)  
+✔ Extensión de API REST en Symfony (endpoints nuevos, ordenación, createdAt)  
+✔ Migraciones en PostgreSQL y pruebas con Postman  
+✔ Entorno montado en Docker
 
 ---
 
 ## 🌱 Actualmente  
-- Reforzando mis conocimientos en React, Angular y Java.
-- Desarrollando proyectos personales para consolidar mi perfil full stack.
-- Abierta a colaborar en proyectos donde pueda aportar y seguir creciendo como desarrolladora web. 
+- Perfeccionando mis habilidades con **Angular, React y Java**  
+- Desarrollando proyectos personales full stack  
+- En búsqueda de nuevos retos profesionales donde aportar y seguir creciendo
 
 ---
 
 ## 📫 Conecta conmigo  
-- 💼 [LinkedIn](https://www.linkedin.com/in/manuela-mendoza-barba/)  
-- ✉️ manuela.mendoza.dev@gmail.com
-
----
-
-✨ *"Siempre aprendiendo, siempre construyendo."*  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/manuela-mendoza-barba/  
+- ✉️ **Email:**  manuela.mendoza.dev@gmail.com
