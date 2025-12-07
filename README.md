@@ -30,7 +30,7 @@ Portfolio responsive desarrollado desde cero sin frameworks.
 ### 🔹 **Portfolio web – React + Vite + Tailwind CSS**  
 Versión moderna del portfolio utilizando React 19, Vite y Tailwind.  
 ✔ Hooks · ✔ Componentes reutilizables · ✔ UI moderna y responsive  
-🔗 Demo: https://portfolio-manuela-mendoza.barba.netlify.app
+🔗 Demo: https://portfolio-manuela-mendoza-barba.netlify.app/
 
 
 
