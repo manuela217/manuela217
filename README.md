@@ -34,7 +34,7 @@ Versión moderna del portfolio utilizando React 19, Vite y Tailwind.
 
 
 
-### 🔹 **Gestor de tareas (En desarrollo) – Angular + Symfony + PostgreSQL + Docker**  
+### 🔹 **Gestor de tareas – Angular + Symfony + PostgreSQL + Docker**  
 Aplicación full stack para gestión de tareas.  
 ✔ Validaciones avanzadas con Reactive Forms  
 ✔ Buscador dinámico  
