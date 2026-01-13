@@ -22,14 +22,18 @@ Actualmente sigo ampliando mi perfil full stack con proyectos propios y formaci�
 ## 📂 Proyectos destacados  
 ### 🔹 **Portfolio web – HTML, CSS, JavaScript**  
 Portfolio responsive desarrollado desde cero sin frameworks.  
-✔ Maquetación · ✔ Diseño responsive · ✔ Accesibilidad  
+✔ Maquetación  
+✔ Diseño responsive  
+✔ Accesibilidad  
 🔗 Demo: https://portfolio-manuela-mendoza.netlify.app
 
 
 
 ### 🔹 **Portfolio web – React + Vite + Tailwind CSS**  
 Versión moderna del portfolio utilizando React 19, Vite y Tailwind.  
-✔ Hooks · ✔ Componentes reutilizables · ✔ UI moderna y responsive  
+✔ Hooks  
+✔ Componentes reutilizables  
+✔ UI moderna y responsive  
 🔗 Demo: https://portfolio-manuela-mendoza-barba.netlify.app/
 
 
@@ -42,6 +46,15 @@ Aplicación full stack para gestión de tareas.
 ✔ Extensión de API REST en Symfony (endpoints nuevos, ordenación, createdAt)  
 ✔ Migraciones en PostgreSQL y pruebas con Postman  
 ✔ Entorno montado en Docker
+
+
+
+### 🔹 **Plataforma E-commerce Handmade – Angular + Spring Boot (en desarrollo)**  
+Proyecto full stack para crear una plantilla de tienda online orientada a pequeños negocios handmade.  
+✔ Frontend en Angular enfocado a una experiencia de compra visual y responsive  
+✔ Backend en Spring Boot con API REST para productos, pedidos y usuarios  
+✔ Diseño de arquitectura y modelo de datos relacional  
+✔ Proyecto pensado como portfolio técnico y base para una tienda real 
 
 ---
 
