@@ -23,7 +23,7 @@ Actualmente continúo ampliando mis conocimientos mediante proyectos personales 
 
 # 📂 Proyectos destacados  
 
-## 🔹 **Plataforma E-commerce Handmade – Angular + Spring Boot (en desarrollo)**  
+## 🔹 **Plataforma E-commerce Handmade – Angular + Spring Boot (en desarrollo)**
 
 Proyecto Full Stack desarrollado como parte de mi portfolio con el objetivo de diseñar una plataforma e-commerce para productos artesanales.
 
@@ -34,10 +34,10 @@ El proyecto está dividido en dos aplicaciones independientes (frontend y backen
 ✔ Autenticación y autorización mediante Spring Security y JWT.
 ✔ Base de datos relacional con PostgreSQL.
 
-🔗 Repositorio/documentación del proyecto: https://github.com/manuela217/handmade-shop
+🔗 Repositorio/documentación del proyecto: https://github.com/manuela217/handmade-shop  
 
 
-## 🔹 **Portfolio web – React + Vite + Tailwind CSS** 
+## 🔹 **Portfolio web – React + Vite + Tailwind CSS**
 
 Versión moderna del portfolio utilizando React 19, Vite y Tailwind.  
 
@@ -45,10 +45,10 @@ Versión moderna del portfolio utilizando React 19, Vite y Tailwind.
 ✔ Componentes reutilizables  
 ✔ UI moderna y responsive  
 
-🔗 Demo: https://portfolio-manuela-mendoza-barba.netlify.app/
+🔗 Demo: https://portfolio-manuela-mendoza-barba.netlify.app/  
 
 
-## 🔹 **Portfolio web – HTML, CSS, JavaScript** 
+## 🔹 **Portfolio web – HTML, CSS, JavaScript**
 
 Portfolio responsive desarrollado desde cero sin frameworks.  
 
@@ -56,10 +56,10 @@ Portfolio responsive desarrollado desde cero sin frameworks.
 ✔ Diseño responsive  
 ✔ Accesibilidad  
 
-🔗 Demo: https://portfolio-manuela-mendoza.netlify.app
+🔗 Demo: https://portfolio-manuela-mendoza.netlify.app  
 
 
-## 🔹 **Gestor de tareas – Angular + Symfony + PostgreSQL + Docker**  
+## 🔹 **Gestor de tareas – Angular + Symfony + PostgreSQL + Docker**
 
 Aplicación full stack para gestión de tareas.  
 
