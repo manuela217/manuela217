@@ -35,7 +35,7 @@ El proyecto está dividido en dos aplicaciones independientes (frontend y backen
 ✔ Base de datos relacional con PostgreSQL.
 
 🔗 Repositorio/documentación del proyecto: https://github.com/manuela217/handmade-shop  
-
+#
 
 ### 🔹 **Portfolio web – React + Vite + Tailwind CSS**
 
@@ -46,7 +46,7 @@ Versión moderna del portfolio utilizando React 19, Vite y Tailwind.
 ✔ UI moderna y responsive  
 
 🔗 Demo: https://portfolio-manuela-mendoza-barba.netlify.app/  
-
+#
 
 ### 🔹 **Portfolio web – HTML, CSS, JavaScript**
 
@@ -57,7 +57,7 @@ Portfolio responsive desarrollado desde cero sin frameworks.
 ✔ Accesibilidad  
 
 🔗 Demo: https://portfolio-manuela-mendoza.netlify.app  
-
+#
 
 ### 🔹 **Gestor de tareas – Angular + Symfony + PostgreSQL + Docker**
 
