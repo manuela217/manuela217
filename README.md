@@ -37,7 +37,7 @@ El proyecto está dividido en dos aplicaciones independientes (frontend y backen
 🔗 Repositorio/documentación del proyecto: https://github.com/manuela217/handmade-shop
 
 
-## 🔹 **Portfolio web – React + Vite + Tailwind CSS**
+## 🔹 **Portfolio web – React + Vite + Tailwind CSS** 
 
 Versión moderna del portfolio utilizando React 19, Vite y Tailwind.  
 
